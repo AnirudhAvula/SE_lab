@@ -14,8 +14,7 @@
     <ul>
         <li><a href="register.jsp">Registration for New user</a></li>
         <li><a href="login.jsp">Login page for booking</a></li>
-        this is a bug
-        
+
     </ul>
 </body>
 </html>
