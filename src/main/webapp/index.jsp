@@ -13,7 +13,7 @@
     <h6>query optimization</h6>
     <ul>
         <li><a href="register.jsp">Registration for New user</a></li>
-        <li><a href="login.jsp">Login page for booking</a></li>
+
     </ul>
 </body>
 </html>
